@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CancerAnalytics Hub</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.min.js"></script>
+    <script src="S2_MiniProject.js"></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+
+
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+    <link rel="stylesheet" href="S2_MiniProject.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet" />
+</head>
+
+<body ng-app="myApp">
+
+    <!--header-->
+        <header>
+            <a href="#!main" class="logo">CANCER</a>
+            <div class="bx bx-menu" id="menu-icon"></div>
+
+            <ul class="navbar">
+                <li><a href="#!about"> About </a></li>
+                <li><a href="#!types"> Types </a></li>
+                <li><a href="#!deathrate"> Death Rates </a></li>
+                <li><a href="#!indiadata"> India Data </a></li>
+            </ul>
+        </header>
+
+    <!--Home section-->
+    <div class="home" id="home"></div>
+    <br>
+    <div ng-view></div> <!--The dynamic view : via ngRoute-->
+
+    <!--Footer-->
+    <section id="contact">
+        <div class="end-text">
+            <p>Copyright @2024  |  All rights reserved   |    Sayli Rajendra Dholam </p>
+        </div>
+    </section>
+</body>
+</html>
