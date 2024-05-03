@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Destinations</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .img-info {
+            display: flex;
+            align-items: center;
+            height: 100vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .img-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 18px;
+            text-align: center;
+        }
+
+        .image {
+            position: relative;
+            overflow: hidden;
+            border-radius: 8px;
+        }
+
+        .image img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 8px;
+        }
+
+        .image-name {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(33, 30, 30, 0.7);
+            color: #fff;
+            padding: 8px;
+            font-size: 1.2em;
+            border-bottom-left-radius: 8px;
+            border-bottom-right-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="img-info">
+        <div class="img-grid">
+            <div class="image">
+                <img src="D7.jpg" >
+                <div class="image-name">Pie Chart</div>
+            </div>
+            <div class="image">
+                <img src="D8.jpg" >
+                <div class="image-name">Stacked bar chart</div>
+            </div>
+        </div>  
+    </div>
+
+    <div class="img-grid">
+        <div class="image">
+            <img src="D9.jpg">
+            <div class="image-name">Line Chart</div>
+        </div>
+        <div class="image">
+            <img src="D10.jpg" >
+            <div class="image-name">Tree Map</div>
+        </div>
+    </div>  
+
+    <div class="img-info">
+        <div class="img-grid">
+            <div class="image">
+                <img src="D11.jpg" >
+                <div class="image-name">Scatter Chart</div>
+            </div>
+            <div class="image">
+                <img src="D12.jpg" >
+                <div class="image-name">Area chart</div>
+            </div>
+        </div>  
+    </div>
+
+        <div class="img-grid">
+            <div class="image">
+                <img src="D13.jpg" >
+                <div class="image-name">Ribbion Chart</div>
+            </div>
+            <div class="image">
+                <img src="D14.jpg" >
+                <div class="image-name">Sum Table</div>
+            </div>
+        </div>  
+
+
+</body>
+</html>
