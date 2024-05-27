@@ -8,4 +8,14 @@ and engaged.
 <br/>
 
 ## Technologies Used :
+- HTML/CSS :<br/>
+- NodeJS : <br/>
+- PowerBI :  <br/>
+- Jupyter :  <br/>
+
+<br/>
+<br/>
+
+![system_design](Snips/system_design.jpg)
+<br/>*System design*
 
