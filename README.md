@@ -3,4 +3,9 @@
 The project's goal is to create an easily navigable cancer information website by 
 employing data visualization techniques to display extensive datasets. Organizing 
 various data kinds, creating powerful visuals, and making sure users are informed 
-and engaged
+and engaged.
+
+<br/>
+
+## Technologies Used :
+
