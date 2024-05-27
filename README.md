@@ -14,7 +14,7 @@ and engaged.
 - Jupyter :  <br/>
 
 <br/>
-
+<br/>
 
 ![system_design](Snips/system_design.jpg)
 <br/>*System design*
