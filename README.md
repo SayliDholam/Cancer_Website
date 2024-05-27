@@ -15,4 +15,7 @@ and engaged.
 
 <br/>
 
-## 
+
+![system_design](Snips/system_design.jpg)
+<br/>*System design*
+
