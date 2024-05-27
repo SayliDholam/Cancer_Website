@@ -17,5 +17,32 @@ and engaged.
 <br/>
 
 ![system_design](Snips/system_design.jpg)
-<br/>*System design*
+<br/>*System Design*
+
+<br/>
+
+![main_page](Snips/main_page.jpg)
+<br/>*Website Main Page*
+
+<br/>
+
+![death_worldwide_2019](Snips/death_worldwide_2019.jpg)
+<br/>*Analysis of deaths worldwide due to cancer till 2019*
+
+<br/>
+
+![death_india_2019](Snips/death_india_2019.jpg)
+<br/>*Analysis of deaths in India due to cancer till 2019*
+
+<br/>
+
+![heatmap](Snips/heatmap.jpg)
+<br/>*Heatmap*
+
+<br/>
+
+![histogram](Snips/histogram.jpg)
+<br/>*Histogram*
+
+<br/>
 
