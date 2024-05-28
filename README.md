@@ -8,10 +8,10 @@ and engaged.
 <br/>
 
 ## Technologies Used :
-- HTML/CSS :<br/>
-- NodeJS : <br/>
-- PowerBI :  <br/>
-- Jupyter :  <br/>
+- HTML/CSS <br/>
+- NodeJS <br/>
+- PowerBI  <br/>
+- Jupyter <br/>
 
 <br/>
 <br/>
