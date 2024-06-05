@@ -22,6 +22,28 @@ and engaged.
 - Jupyter <br/>
 
 <br/>
+
+### Node.js setup:
+1. **Download and Install Node.js**:
+   - Download the installer from the Node.js website.
+   - Run the installer and follow the prompts.
+
+2. **Verify the Installation**:
+   - Open Command Prompt or PowerShell and run ```node -v``` and ```npm -v```.
+
+
+3. **Create a Simple Node.js Application**:
+   - Set up a new project directory.
+   - Initialize the project with ```npm init -y```.
+   - Create an app.js file with the HTTP server code.
+
+
+4. **Run the Application**:
+   - Use node app.js to start the server.
+   - Open your browser and navigate 
+
+
+<br/>
 <br/>
 
 ![system_design](Snips/system_design.jpg)
