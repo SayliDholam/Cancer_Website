@@ -28,6 +28,10 @@ CSS can be applied inline, internally within an HTML document, or externally via
 
 
 - NodeJS <br/>
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+It allows developers to run JavaScript on the server-side, enabling the creation of scalable and high-performance network applications.
+Node.js uses an event-driven, non-blocking I/O model, making it efficient and suitable for real-time applications.
+It has a vast ecosystem of libraries and modules managed via npm (Node Package Manager).
 
 
 - PowerBI  <br/>
