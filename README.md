@@ -17,9 +17,25 @@ and engaged.
 
 ## Technologies Used :
 - HTML/CSS <br/>
+*HTML (HyperText Markup Language)*:
+HTML is the standard markup language used to create web pages.
+It provides the structure of a webpage by using a series of elements or tags.
+Each element has an opening tag, content, and a closing tag.<br/>
+*CSS (Cascading Style Sheets)*:
+CSS is used to style and layout web pages.
+It describes how HTML elements should be displayed on screen, paper, or in other media.
+CSS can be applied inline, internally within an HTML document, or externally via an external stylesheet.
+
+
 - NodeJS <br/>
+
+
 - PowerBI  <br/>
+
+
 - Jupyter <br/>
+
+
 
 <br/>
 
