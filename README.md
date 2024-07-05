@@ -25,16 +25,24 @@ Each element has an opening tag, content, and a closing tag.<br/>
 CSS is used to style and layout web pages.
 It describes how HTML elements should be displayed on screen, paper, or in other media.
 CSS can be applied inline, internally within an HTML document, or externally via an external stylesheet.
-
+<br/>
 
 - NodeJS <br/>
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 It allows developers to run JavaScript on the server-side, enabling the creation of scalable and high-performance network applications.
 Node.js uses an event-driven, non-blocking I/O model, making it efficient and suitable for real-time applications.
 It has a vast ecosystem of libraries and modules managed via npm (Node Package Manager).
-
+<br/>
 
 - PowerBI  <br/>
+Power BI is a business analytics tool developed by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.</br>
+Key Features :
+   - Data Integration
+   - Data Transformation
+   - Data Modeling
+   - Visualizations
+   - Reports and Dashboards
+<br/>
 
 
 - Jupyter <br/>
