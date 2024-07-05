@@ -36,13 +36,14 @@ It has a vast ecosystem of libraries and modules managed via npm (Node Package M
 
 - PowerBI  <br/>
 Power BI is a business analytics tool developed by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.</br>
+[Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/) and [Power BI Learn](https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link)</br>
 Key Features :
    - Data Integration
    - Data Transformation
    - Data Modeling
    - Visualizations
    - Reports and Dashboards
-<br/>
+</br>
 
 
 - Jupyter <br/>
