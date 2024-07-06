@@ -48,19 +48,15 @@ Key Features :
 
 - Jupyter <br/>
 Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text. It is widely used in data science, machine learning, and scientific computing. </br>
-[Jupyter Documentation](https://docs.jupyter.org/en/latest/) 
+[Jupyter Documentation](https://docs.jupyter.org/en/latest/) </br>
 Key Features :
-   - Data Integration
-   - Data Transformation
-   - Data Modeling
-   - Visualizations
-   - Reports and Dashboards
+   - Interactive Code Execution:
+   - Rich Text and Markdown
+   - Data Visualization
+   - Interactive Widgets
+   - Notebook Sharing
+   - Kernel Support
 </br>
-
-
-
-
-<br/>
 
 ### Node.js setup:
 1. **Download and Install Node.js**:
