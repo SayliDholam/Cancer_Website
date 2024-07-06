@@ -48,7 +48,7 @@ Key Features :
 
 - Jupyter <br/>
 Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text. It is widely used in data science, machine learning, and scientific computing. </br>
-[Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/) 
+[Jupyter Documentation](https://docs.jupyter.org/en/latest/) 
 Key Features :
    - Data Integration
    - Data Transformation
